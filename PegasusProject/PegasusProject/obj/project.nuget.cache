@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ql/EiRvhdJhDvXpia771znO3aupVF+GywizAaP9MPNqPoYk7yESNcc1uDYOornpAqHypnCPM6OkTTXobApwAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chess\\source\\repos\\PegasusProject\\PegasusProject\\PegasusProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chess\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chess\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chess\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\chess\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\chess\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\chess\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
