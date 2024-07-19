@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PegasusProject.Controllers
+namespace PegasusProject.Infraestructure.Controllers
 {
     [ApiController]
     [Route("[controller]")]

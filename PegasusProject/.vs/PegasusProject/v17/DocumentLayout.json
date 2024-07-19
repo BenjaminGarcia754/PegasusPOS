@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chess\\source\\repos\\PegasusProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\pegasusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\pegasusproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\pegasusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\pegasusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\model\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\model\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\model\\salesheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\model\\salesheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|c:\\users\\chess\\source\\repos\\pegasuspos\\pegasusproject\\pegasusproject\\domain\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B57154-68C4-4E70-8300-17859FD3A2BF}|PegasusProject\\PegasusProject.csproj|solutionrelative:pegasusproject\\domain\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PegasusProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\appsettings.json",
+              "RelativeToolTip": "PegasusProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T03:12:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PegasusProject",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\PegasusProject.csproj",
+              "RelativeDocumentMoniker": "PegasusProject\\PegasusProject.csproj",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\PegasusProject.csproj",
+              "RelativeToolTip": "PegasusProject\\PegasusProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T01:03:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Program.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Program.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Program.cs",
+              "RelativeToolTip": "PegasusProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:08:05.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PegasusDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\PegasusDbContext.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\PegasusDbContext.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\PegasusDbContext.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\PegasusDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:02:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\SalesDetails.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\Model\\SalesDetails.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\SalesDetails.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\Model\\SalesDetails.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:55:51.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesHeader.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\SalesHeader.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\Model\\SalesHeader.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\SalesHeader.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\Model\\SalesHeader.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:51:27.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Product.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\Model\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:01:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Category.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:37:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Company.cs",
+              "RelativeDocumentMoniker": "PegasusProject\\Domain\\Model\\Company.cs",
+              "ToolTip": "C:\\Users\\chess\\source\\repos\\PegasusPOS\\PegasusProject\\PegasusProject\\Domain\\Model\\Company.cs",
+              "RelativeToolTip": "PegasusProject\\Domain\\Model\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:56:46.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
